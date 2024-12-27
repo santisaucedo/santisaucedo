@@ -13,6 +13,6 @@ I am a recently graduated Full Stack Developer, passionate about learning and wo
 
 ⚡ What I like to do:
 
-Sports & Wellness: I enjoy playing soccer, exploring different training methods, and meditating to maintain a balanced and active lifestyle.
-Music: I'm passionate about listening to rock and electronic music, and I love attending concerts and festivals.
-Personal Growth: I enjoy exploring topics like the Enneagram, astrology, self-discovery, and fostering meaningful relationships with others.
+🤸‍♂️ Sports & Wellness: I enjoy playing soccer, exploring different training methods, and meditating to maintain a balanced and active lifestyle.
+🎈 Music: I'm passionate about listening to rock and electronic music, and I love attending concerts and festivals.
+🧘‍♂️ Personal Growth: I enjoy exploring topics like the Enneagram, astrology, self-discovery, and fostering meaningful relationships with others.
