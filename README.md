@@ -1,5 +1,5 @@
+<h1 align="center">Hi 👋, I'm Santiago </h1>
 
-Hi 👋, I'm Santiago
 
 I am a recently graduated Full Stack Developer, passionate about learning and working on Front-End and Back-End development.
 
