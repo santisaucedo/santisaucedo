@@ -5,9 +5,7 @@ I am a recently graduated Full Stack Developer, passionate about learning and wo
 
 🔭 I’m currently working on enhancing and refining some of the applications available in my repository.
 
-🌱 I’m currently learning JavaScript and React to expand my expertise.
-
-👯 I’m looking to collaborate on Front-End and Back-End projects to gain valuable professional experience.
+🤝 I’m looking to collaborate on Front-End and Back-End projects to gain valuable professional experience.
 
 📫 How to reach me: santiagonsaucedo@gmail.com
 
