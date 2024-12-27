@@ -22,8 +22,14 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago--saucedo)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santisauced0/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagonsaucedo@gmail.com)
-  
+<div>
+ <a href="https://santisaucedo.github.io/Presentacion/">
+    <img src="https://img.shields.io/badge/Ver_CV-Online-4cbbf7?style=for-the-badge&logo=github" alt="Ver CV Online">
+  </a>
 </div>
+</div>
+
+
 
 <h3 align="center">Languages and Tools:</h3>
 
