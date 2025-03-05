@@ -5,7 +5,7 @@ Soy un Desarrollador Full Stack recién graduado, apasionado por aprender y trab
 
 🔭 Actualmente estoy mejorando y refinando algunas de las aplicaciones disponibles en mi repositorio.
 
-🤝 Busco colaborar en proyectos de Front-End y Back-End para ganar experiencia profesional y seguir aprendiendo.
+🤝 Busco colaborar en proyectos de Front-End y Back-End para ganar experiencia profesional y seguir creciendo en el rubro.
 
 📫 Cómo contactarme: santiagonsaucedo@gmail.com
 
