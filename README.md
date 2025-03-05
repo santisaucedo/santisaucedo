@@ -3,7 +3,7 @@
 
 Soy un Desarrollador Full Stack recién graduado, apasionado por aprender y trabajar en desarrollo Front-End y Back-End.
 
-🔭 Actualmente estoy mejorando y refinando algunas de las aplicaciones disponibles en mi repositorio.
+🔭 Actualmente estoy mejorando y puliendo algunas de las aplicaciones disponibles en mi repositorio.
 
 🤝 Busco colaborar en proyectos de Front-End y Back-End para ganar experiencia profesional y seguir creciendo en el rubro.
 
