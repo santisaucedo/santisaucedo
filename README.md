@@ -12,6 +12,7 @@ Soy un Desarrollador Full Stack recién graduado, apasionado por aprender y trab
 ⚡ Lo que me gusta hacer:
 
 🤸‍♂️ Deporte y Bienestar: Disfruto jugar al fútbol, probar diferentes métodos de entrenamiento como por ejemplo acrobacia y meditar para mantener un estilo de vida equilibrado.
+
 🎈 Música: Me apasiona escuchar rock y música electrónica y asistir a conciertos y festivales.
 
 <h3 align="center">Contactarme:</h3>
