@@ -1,22 +1,20 @@
-<h1 align="center">Hi 👋, I'm Santiago </h1>
+<h1 align="center">Hola 👋, Soy Santiago Saucedo! </h1>
 
 
-- I am a recently graduated Full Stack Developer, passionate about learning and working on Front-End and Back-End development.
+Soy un Desarrollador Full Stack recién graduado, apasionado por aprender y trabajar en desarrollo Front-End y Back-End.
 
-- 🔭 I’m currently working on enhancing and refining some of the applications available in my repository.
+🔭 Actualmente estoy mejorando y refinando algunas de las aplicaciones disponibles en mi repositorio.
 
-- 🤝 I’m looking to collaborate on Front-End and Back-End projects to gain valuable professional experience.
+🤝 Busco colaborar en proyectos de Front-End y Back-End para ganar experiencia profesional y seguir aprendiendo.
 
-- 📫 How to reach me: santiagonsaucedo@gmail.com
+📫 Cómo contactarme: santiagonsaucedo@gmail.com
 
-- ⚡ What I like to do:
+⚡ Lo que me gusta hacer:
 
-🤸‍♂️ Sports & Wellness: I enjoy playing soccer, exploring different training methods, and meditating to maintain a balanced lifestyle.  
-      🎈 Music: I'm passionate about listening to rock and electronic music, and I love attending concerts and festivals.    
-     🧘‍♂️ Personal Growth: I enjoy exploring topics like the Enneagram, astrology, self-discovery, and fostering meaningful relationships with others.
+🤸‍♂️ Deporte y Bienestar: Disfruto jugar al fútbol, probar diferentes métodos de entrenamiento como por ejemplo acrobacia y meditar para mantener un estilo de vida equilibrado.
+🎈 Música: Me apasiona escuchar rock y música electrónica y asistir a conciertos y festivales.
 
-
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contactarme:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago--saucedo)
@@ -31,7 +29,7 @@
 
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Lenguajes y Herramientas:</h3>
 
 <p align="center"> 
       
