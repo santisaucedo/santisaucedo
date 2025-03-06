@@ -9,11 +9,22 @@ Soy un Desarrollador Full Stack recién graduado, apasionado por aprender y trab
 
 📫 Cómo contactarme: santiagonsaucedo@gmail.com
 
-⚡ Lo que me gusta hacer:
+⚡ Proyectos:
 
-🤸‍♂️ Deporte y Bienestar: Disfruto jugar al fútbol, probar diferentes métodos de entrenamiento como por ejemplo acrobacia y meditar para mantener un estilo de vida equilibrado.
+Sistema de Gestion Reparaciones: Creación de un sistema CRUD para la gestión de reparaciones, optimizando el manejo de clientes, equipos y ordenes de trabajo.
 
-🎈 Música: Me apasiona escuchar rock, música electrónica y asistir a conciertos o festivales.
+Diseño de Interfaces: Colaboración en el diseño de interfaces web para mejorar la experiencia del usuario, optimizando la navegación y funcionalidades para dispositivos móviles.
+
+API Clima y Normalización de Direcciones: Desarrollo de una API de clima y un sistema para normalizar direcciones en diversas plataformas, mejorando la experiencia del usuario final.
+
+Tecnologias usadas:
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+
 
 <h3 align="center">Contactarme:</h3>
 <div align="center">
