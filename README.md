@@ -13,7 +13,7 @@ Soy un Desarrollador Full Stack recién graduado, apasionado por aprender y trab
 
 🤸‍♂️ Deporte y Bienestar: Disfruto jugar al fútbol, probar diferentes métodos de entrenamiento como por ejemplo acrobacia y meditar para mantener un estilo de vida equilibrado.
 
-🎈 Música: Me apasiona escuchar rock y música electrónica y asistir a conciertos y festivales.
+🎈 Música: Me apasiona escuchar rock, música electrónica y asistir a conciertos o festivales.
 
 <h3 align="center">Contactarme:</h3>
 <div align="center">
@@ -23,7 +23,7 @@ Soy un Desarrollador Full Stack recién graduado, apasionado por aprender y trab
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagonsaucedo@gmail.com)
 <div>
  <a href="https://santisaucedo.github.io/Presentacion/">
-    <img src="https://img.shields.io/badge/Ver_CV-Online-4cbbf7?style=for-the-badge&logo=github" alt="Ver CV Online">
+    <img src="https://img.shields.io/badge/_Visit_My_Portfolio_%E2%9C%A8-blue?style=for-the-badge">
   </a>
 </div>
 </div>
