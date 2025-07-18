@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Santiago Saucedo! </h1>
+<h1 align="center">Hola , Soy Santiago Saucedo! </h1>
 
 
 Soy un Desarrollador Full Stack recién graduado, apasionado por aprender y trabajar en desarrollo Front-End y Back-End.
