@@ -15,21 +15,21 @@ Desarrollador Full Stack con formación especializada en **Java Spring Boot** y 
 
 ## 🏗️ Proyectos Destacados
 
-### 🔧 [Sistema de Gestión de Reparaciones](https://github.com/santisaucedo/sistema-reparaciones)
+### 🔧 [Sistema de Gestión de Reparaciones](https://github.com/santisaucedo/Gestion_reparaciones)
 **Java | Spring Boot | MySQL | Bootstrap**
 - Aplicación completa CRUD para gestión de órdenes de trabajo
 - API REST con autenticación JWT
 - Generación de reportes PDF
 - Frontend responsivo con Bootstrap
 
-### 🌤️ [API del Clima con Geolocalización](https://github.com/santisaucedo/api-clima)
+### 🌤️ [API del Clima con Geolocalización](https://github.com/santisaucedo/apiclima)
 **JavaScript | HTML5 | CSS3 | APIs REST**
 - Consumo de API externa con Fetch API
 - Búsqueda por ciudad y coordenadas
 - Interfaz responsiva con Bootstrap
 - Implementación de voz generada por IA
 
-### 📚 [Sistema de Administración de Cursos](https://github.com/santisaucedo/sistema-cursos)
+### 📚 [Sistema de Administración de Cursos](https://github.com/santisaucedo/Desarrollo-APP-WEB)
 **Java | Spring Boot | MariaDB | Thymeleaf**
 - Gestión completa de cursos, estudiantes y profesores
 - Panel administrativo con roles de usuario
