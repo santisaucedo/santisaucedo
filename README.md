@@ -1,96 +1,87 @@
-<h1 align="center">Hola , Soy Santiago Saucedo! </h1>
+# 👨‍💻 Santiago Saucedo | Desarrollador Full Stack Java
 
+**🚀 10+ años en soluciones tecnológicas | Java Spring Boot | APIs REST | Busco oportunidades remotas/híbridas**
 
-Soy un Desarrollador Full Stack recién graduado, apasionado por aprender y trabajar en desarrollo Front-End y Back-End.
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://java.com)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santisaucedo)
 
-🔭 Actualmente estoy mejorando y puliendo algunas de las aplicaciones disponibles en mi repositorio.
+## 📊 Mi Perfil
 
-🤝 Busco colaborar en proyectos de Front-End y Back-End para ganar experiencia profesional y seguir creciendo en el rubro.
+Desarrollador Full Stack con formación especializada en **Java Spring Boot** y una década de experiencia resolviendo problemas tecnológicos complejos en el sector corporativo. Combino conocimientos técnicos profundos con habilidades de comunicación efectiva adquiridas en atención al cliente.
 
-📫 Cómo contactarme: santiagonsaucedo@gmail.com
+**🔍 Busco:** Posición como **Desarrollador Java Backend** o **Full Stack** en modalidad remota/híbrida.
 
-⚡ Proyectos:
+## 🏗️ Proyectos Destacados
 
-Sistema de Gestion Reparaciones: Creación de un sistema CRUD para la gestión de reparaciones, optimizando el manejo de clientes, equipos y ordenes de trabajo.
+### 🔧 [Sistema de Gestión de Reparaciones](https://github.com/santisaucedo/sistema-reparaciones)
+**Java | Spring Boot | MySQL | Bootstrap**
+- Aplicación completa CRUD para gestión de órdenes de trabajo
+- API REST con autenticación JWT
+- Generación de reportes PDF
+- Frontend responsivo con Bootstrap
 
-Diseño de Interfaces: Colaboración en el diseño de interfaces web para mejorar la experiencia del usuario, optimizando la navegación y funcionalidades para dispositivos móviles.
+### 🌤️ [API del Clima con Geolocalización](https://github.com/santisaucedo/api-clima)
+**JavaScript | HTML5 | CSS3 | APIs REST**
+- Consumo de API externa con Fetch API
+- Búsqueda por ciudad y coordenadas
+- Interfaz responsiva con Bootstrap
+- Implementación de voz generada por IA
 
-API Clima y Normalización de Direcciones: Desarrollo de una API de clima y un sistema para normalizar direcciones en diversas plataformas, mejorando la experiencia del usuario final.
+### 📚 [Sistema de Administración de Cursos](https://github.com/santisaucedo/sistema-cursos)
+**Java | Spring Boot | MariaDB | Thymeleaf**
+- Gestión completa de cursos, estudiantes y profesores
+- Panel administrativo con roles de usuario
+- Exportación de datos a Excel
 
-Tecnologias usadas:
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+## 🛠️ Stack Tecnológico
 
+### **Backend**
+![Java](https://img.shields.io/badge/Java-Expert-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Advanced-6DB33F?logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-Intermediate-6DB33F?logo=springsecurity&logoColor=white)
+![JPA/Hibernate](https://img.shields.io/badge/JPA/Hibernate-Intermediate-59666C?logo=hibernate&logoColor=white)
 
+### **Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-7952B3?logo=bootstrap&logoColor=white)
 
-<h3 align="center">Contactarme:</h3>
-<div align="center">
+### **Base de Datos & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Expert-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-Expert-FF6C37?logo=postman&logoColor=white)
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago--saucedo)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santisauced0/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagonsaucedo@gmail.com)
-<div>
- <a href="https://santisaucedo.github.io/Presentacion/">
-    <img src="https://img.shields.io/badge/_Visit_My_Portfolio_%E2%9C%A8-blue?style=for-the-badge">
-  </a>
-</div>
-</div>
+## 📈 Experiencia Relevante
 
+**🎯 Técnico Informático Senior** | Ryder Informática y Comunicaciones | 2013 - Presente
+- Implementé soluciones tecnológicas para más de 50 clientes corporativos
+- Configuré sistemas críticos para estaciones de tráfico aéreo (ARINC)
+- Automatización de procesos reduciendo tiempos de implementación en 40%
+- Soporte técnico especializado en infraestructura IT
 
+## 🎓 Formación
 
-<h3 align="center">Lenguajes y Herramientas:</h3>
+**💻 Desarrollo Full Stack Java** | CFP SMATA | 2023-2024
+- Especialización en Java, Spring Boot, APIs REST
+- Proyectos prácticos con metodologías Agile
 
-<p align="center"> 
-      
-<a href="https://www.w3.org/html/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a>
+**📚 Cursos Complementarios** | Alura Latam, Código Facilito
+- Java Orientado a Objetos
+- Spring Framework
+- APIs REST con Spring Boot
+- Git y GitHub profesional
 
- <a href="https://cdn.jsdelivr.net" target="_blank">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
- </a>
-      
-<a href="https://cdn.jsdelivr.net" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="javascript" width="40" height="40"/>
- </a>
+## 🌐 Conectemos
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
- </a> 
-  
-<a href="https://git-scm.com/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<a>
-  
-<a href="https://cdn.jsdelivr.net" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="git" width="40" height="40"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?logo=google-chrome&logoColor=white)](https://santisaucedo.github.io/Presentation/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:santiagonsaucedo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/santisaucedo)
 
-<a href="https://cdn.jsdelivr.net" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="git" width="40" height="40"/>
-</a>       
+---
 
- <a href="https://cdn.jsdelivr.net" target="_blank">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="git" width="40" height="40"/>
-</a>        
- 
-<a href="https://cdn.jsdelivr.net" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://cdn.jsdelivr.net" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
-</a>           
-
-<a href="https://cdn.jsdelivr.net" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40" />          
-</a> 
-
-       
-</p>
-
-
-
+⭐ *"Apasionado por crear soluciones eficientes y escalables con código limpio y buenas prácticas"*
