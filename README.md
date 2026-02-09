@@ -77,8 +77,8 @@ Desarrollador Full Stack con formación especializada en **Java Spri``ng Boot** 
 
 ## 🌐 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?logo=google-chrome&logoColor=white)](https://santisaucedo.github.io/Presentation/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagonsaucedo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?logo=google-chrome&logoColor=white)](https://santisaucedo.github.io/Presentacion/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:santiagonsaucedo@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/santisaucedo)
 
