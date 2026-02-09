@@ -9,7 +9,7 @@
 
 ## 📊 Mi Perfil
 
-Desarrollador Full Stack con formación especializada en **Java Spring Boot** y una década de experiencia resolviendo problemas tecnológicos complejos en el sector corporativo. Combino conocimientos técnicos profundos con habilidades de comunicación efectiva adquiridas en atención al cliente.
+Desarrollador Full Stack con formación especializada en **Java Spri``ng Boot** y una década de experiencia resolviendo problemas tecnológicos complejos en el sector corporativo. Combino conocimientos técnicos profundos con habilidades de comunicación efectiva adquiridas en atención al cliente.
 
 **🔍 Busco:** Posición como **Desarrollador Java Backend** o **Full Stack** en modalidad remota/híbrida.
 
