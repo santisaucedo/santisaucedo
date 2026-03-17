@@ -17,17 +17,6 @@ Desarrollador Full Stack con formación especializada en **Java Spring Boot** y 
 
 ## 🏗️ Proyectos Destacados
 
-### 🔧 [Sistema de Gestión de Reparaciones](https://github.com/santisaucedo/Gestion_reparaciones)
-
-**Java | Spring Boot | MySQL | Bootstrap**
-
-* Aplicación completa CRUD para gestión de órdenes de trabajo
-* API REST con autenticación JWT
-* Generación de reportes PDF
-* Frontend responsivo con Bootstrap
-
----
-
 ### 🚗 Sistema de Gestión de Taller Automotor
 
 **Aplicación Web | Gestión de Clientes y Presupuestos**
@@ -55,6 +44,18 @@ Desarrollador Full Stack con formación especializada en **Java Spring Boot** y 
 * Implementación de voz generada por IA
 
 ---
+
+### 🔧 [Sistema de Gestión de Reparaciones](https://github.com/santisaucedo/Gestion_reparaciones)
+
+**Java | Spring Boot | MySQL | Bootstrap**
+
+* Aplicación completa CRUD para gestión de órdenes de trabajo
+* API REST con autenticación JWT
+* Generación de reportes PDF
+* Frontend responsivo con Bootstrap
+
+---
+
 
 ## 🛠️ Stack Tecnológico
 
