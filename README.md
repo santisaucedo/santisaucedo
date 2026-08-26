@@ -1,121 +1,95 @@
-# 👨‍💻 Santiago Saucedo | Desarrollador Full Stack Java
+# Santiago Saucedo | Desarrollador Full Stack Java
 
-**🚀 10+ años en soluciones tecnológicas | Java Spring Boot | APIs REST | Busco oportunidades remotas/híbridas**
+**10+ años en IT · desarrollo de software desde 2023 · Java Spring Boot · producto en producción**
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)](https://java.com)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)](https://spring.io/projects/spring-boot)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)](https://mysql.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/santisaucedo)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
 
----
+Creador de **[RepaLab](https://www.repalab.com.ar)** (SaaS/PWA de reparaciones) y **[Cerebro Mecánica](https://studio--studio-3844595294-cb57b.us-central1.hosted.app/)** (gestión de taller automotriz). Busco oportunidades remotas o híbridas como Desarrollador Java.
 
-## 📊 Mi Perfil
-
-Desarrollador Full Stack con formación especializada en **Java Spring Boot** y una década de experiencia resolviendo problemas tecnológicos complejos en el sector corporativo. Combino conocimientos técnicos profundos con habilidades de comunicación efectiva adquiridas en atención al cliente.
-
----
-
-## 🏗️ Proyectos Destacados
-
-### 🚗 Sistema de Gestión de Taller Automotor
-
-**Aplicación Web | Gestión de Clientes y Presupuestos**
-
-[![Demo](https://img.shields.io/badge/🚀%20Ver%20Demo-Online-success?style=for-the-badge)](https://studio--studio-3844595294-cb57b.us-central1.hosted.app/login)
-
-* Sistema web para administrar operaciones de un taller mecánico
-* Permite registrar y gestionar clientes junto con sus vehículos
-* Creación de presupuestos de reparación con detalle de trabajos y costos
-* Búsqueda rápida por patente del vehículo
-* Consultas y filtrado de registros por fecha
-* Interfaz simple diseñada para optimizar la gestión del taller
+[Portfolio](https://santisaucedo.github.io/Presentacion/) · [LinkedIn](https://www.linkedin.com/in/santiagonsaucedo/) · [Email](mailto:santiagonsaucedo@gmail.com)
 
 ---
 
-### 🌤️ [API del Clima con Geolocalización](https://github.com/santisaucedo/apiclima)
+## Perfil
 
-[![🌤️ Ver Demo Clima](https://img.shields.io/badge/🌤️%20Ver%20Demo-API%20Clima-blue?style=for-the-badge)](https://santisaucedo.github.io/apiclima/)
-
-**JavaScript | HTML5 | CSS3 | APIs REST**
-
-* Consumo de API externa con Fetch API
-* Búsqueda por ciudad y coordenadas
-* Interfaz responsiva con Bootstrap
-* Implementación de voz generada por IA
+Desarrollador Full Stack con **10+ años en IT** (infraestructura, software de clientes y sistemas críticos) y desarrollo de software desde 2023. Especializado en **Java Spring Boot** y APIs REST. Combino Docker, Git y Cursor (IA) para iterar rápido y operar producto en producción.
 
 ---
 
-### 🔧 [Sistema de Gestión de Reparaciones](https://github.com/santisaucedo/Gestion_reparaciones)
+## Proyectos destacados
 
-**Java | Spring Boot | MySQL | Bootstrap**
+### RepaLab — Gestión de reparaciones
 
-* Aplicación completa CRUD para gestión de órdenes de trabajo
-* API REST con autenticación JWT
-* Generación de reportes PDF
-* Frontend responsivo con Bootstrap
+**Java | Spring Boot | MySQL | Bootstrap · En producción**
 
----
+[Landing](https://www.repalab.com.ar) · [Probar la app](https://app.repalab.com.ar) · [Código](https://github.com/santisaucedo/Gestion_reparaciones)
 
+- Aplicación web en producción para talleres y servicio técnico
+- Órdenes de trabajo, clientes, stock, proveedores y listas de precios
+- Costos en USD con tipo de cambio BNA e IVA en ARS
+- Agenda, pendientes, importación de clientes y PWA instalable
+- API REST con Spring MVC / JPA, autenticación JWT y reportes PDF
+- Docker Compose, Caddy y VPS (DigitalOcean); pagos con Mercado Pago
 
-## 🛠️ Stack Tecnológico
+### Cerebro Mecánica — Gestión de taller automotriz
 
-### **Backend**
+**Next.js | Firebase | Tailwind | Genkit · En producción**
 
-![Java](https://img.shields.io/badge/Java-Expert-ED8B00?logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Advanced-6DB33F?logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-Intermediate-6DB33F?logo=springsecurity\&logoColor=white)
-![JPA/Hibernate](https://img.shields.io/badge/JPA/Hibernate-Intermediate-59666C?logo=hibernate\&logoColor=white)
+[Ver aplicación en vivo](https://studio--studio-3844595294-cb57b.us-central1.hosted.app/)
 
-### **Frontend**
+- App para talleres mecánicos: clientes, vehículos, presupuestos, roles de staff y fotos
+- Autenticación, Firestore y hosting en Firebase
+- IA con Google Genkit
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-7952B3?logo=bootstrap\&logoColor=white)
+### [API del Clima con Geolocalización](https://github.com/santisaucedo/apiclima)
 
-### **Base de Datos & Tools**
+**JavaScript | HTML | CSS | Bootstrap**
 
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Expert-F05032?logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-Expert-FF6C37?logo=postman\&logoColor=white)
+[Demo](https://santisaucedo.github.io/apiclima/)
 
----
-
-## 📈 Experiencia Relevante
-
-**🎯 Técnico Informático Senior** | Ryder Informática y Comunicaciones | 2013 - Presente
-
-* Implementé soluciones tecnológicas para más de 50 clientes corporativos
-* Configuré sistemas críticos para estaciones de tráfico aéreo (ARINC)
-* Automatización de procesos reduciendo tiempos de implementación en 40%
-* Soporte técnico especializado en infraestructura IT
+- Consumo de API externa con Fetch API
+- Búsqueda por ciudad y geolocalización
+- Interfaz responsive
 
 ---
 
-## 🎓 Formación
+## Stack
 
-**💻 Desarrollo Full Stack Java** | CFP SMATA | 2023-2024
-
-* Especialización en Java, Spring Boot, APIs REST
-* Proyectos prácticos con metodologías Agile
-
-**📚 Cursos Complementarios** | Alura Latam, Código Facilito
-
-* Java Orientado a Objetos
-* Spring Framework
-* APIs REST con Spring Boot
-* Git y GitHub profesional
+**Backend:** Java · Spring Boot · APIs REST · PHP  
+**Frontend:** JavaScript · Next.js · HTML/CSS · Bootstrap · PWA  
+**Datos:** MySQL · MariaDB  
+**DevOps / Cloud:** Docker · Caddy · DigitalOcean · Firebase · Git · GitHub  
+**IA / flujo:** Cursor · desarrollo asistido por IA  
+**Pagos / infra:** Mercado Pago · Cloudflare
 
 ---
 
-## 🌐 Conectemos
+## Experiencia
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/santiagonsaucedo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?logo=google-chrome\&logoColor=white)](https://santisaucedo.github.io/Presentacion/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail\&logoColor=white)](mailto:santiagonsaucedo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github\&logoColor=white)](https://github.com/santisaucedo)
+**Desarrollador y producto propio** · RepaLab · 2025 — Presente  
+SaaS/PWA en producción (repalab.com.ar). Java, Spring Boot, MySQL, Docker, Caddy. Prototipo inicial en Firebase; migración a stack contenedorizado.
+
+**Técnico informático senior** · Ryder Informática y Comunicaciones · 2013 — Presente  
+Soluciones para 50+ clientes corporativos, estaciones de tráfico aéreo (ARINC), software contable y mantenimiento de HW/SW.
 
 ---
 
-⭐ *"Apasionado por crear soluciones eficientes y escalables con código limpio y buenas prácticas"*
+## Formación
+
+**CFP SMATA** · Desarrollo de software · 2023–2024  
+Java, Spring Boot, APIs REST, JavaScript, HTML, CSS, Git, Bootstrap, MySQL
+
+**Alura Latam / Código Facilito** · Cursos de Java y frontend
+
+---
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagonsaucedo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Presentacion-4285F4?logo=googlechrome&logoColor=white)](https://santisaucedo.github.io/Presentacion/)
+[![RepaLab](https://img.shields.io/badge/RepaLab-repalab.com.ar-0D9488)](https://www.repalab.com.ar)
+[![Email](https://img.shields.io/badge/Email-santiagonsaucedo-D14836?logo=gmail&logoColor=white)](mailto:santiagonsaucedo@gmail.com)
